@@ -5,7 +5,7 @@
  django-admin startproject 项目名称
  
  # 项目目录介绍
- |---mysite # 项目的根目录 
+ |---mysite # 项目的根目录 <br />
   |---mysite # 项目名称
       |---__init__.py 
       |---settings.py # 配置文件 
