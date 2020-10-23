@@ -29,4 +29,4 @@
 
 >引用代码
 
-<p><a href="https://www.baidu.com" target="_blank">百度一下，你就知道</a></p>
+<p><a href="https://www.baidu.com">百度一下，你就知道</a></p>
