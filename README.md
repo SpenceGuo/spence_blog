@@ -13,3 +13,20 @@
   &nbsp;&nbsp;    |---urls.py # 路由系统 ===> url与视图的对应关系 <br />
   &nbsp;&nbsp;    |---wsgi.py # runserver命令就使用wsgiref模块做简单的web server <br />
 |---manage.py # 管理文件
+
+# packages
+<ul>
+  <li>Django 3.1.0 or higher</li>
+  <li>1</li>
+  <li>1</li>
+</ul>
+
+<ol>
+  <li>列表</li>
+  <li>列表</li>
+  <li>列表</li>
+</ol>
+
+>引用代码
+
+<p><a href="https://www.baidu.com">百度一下，你就知道</a></p>
